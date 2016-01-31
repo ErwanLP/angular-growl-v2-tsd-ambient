@@ -1,0 +1,15 @@
+{
+  "name": "retyped-angular-growl-v2-tsd-ambient",
+  "description": "TypeScript typings for angular-growl-v2",
+  "version": "0.7.5-0",
+  "licence": "MIT",
+  "repository": "https://github.com/retyped/angular-growl-v2-tsd-ambient",
+  "typescript": {
+    "definition": "angular-growl-v2.d.ts"
+  },
+  "keywords": [
+    "retyped",
+    "tsd",
+    "tsd-ambient"
+  ]
+}
